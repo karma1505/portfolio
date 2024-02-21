@@ -9,7 +9,6 @@ import {
 } from "react-icons/di";
 import {
   SiPostgresql,
-  SiNextdotjs,
   SiMysql,
   SiCss3,
   SiTensorflow,
