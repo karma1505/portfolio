@@ -75,7 +75,7 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
-            <Nav.Item style={{ marginRight: '10px' }}>
+            <Nav.Item>
               <Nav.Link
                 as={Link}
                 to="/resume"
